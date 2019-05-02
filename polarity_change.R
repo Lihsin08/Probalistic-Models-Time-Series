@@ -1,0 +1,1 @@
+polarity_change <-function(forward_alpha, states )
